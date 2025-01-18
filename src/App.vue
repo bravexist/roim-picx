@@ -6,7 +6,7 @@
 					class="w-full h-16 bg-rose-100/50 shadow-sm sticky left-0 top-0 backdrop-blur-sm z-10"
 				>
 					<div class="mx-auto max-w-6xl px-4 h-full flex items-center">
-						<img src="/favicon.png" class="w-8 h-8 block mr-2" />
+						<img src="/rest/2025/01/YelzFNK.ico" class="w-8 h-8 block mr-2" />
 						<div class="text-lg">
 							{{ appName }}
 						</div>
@@ -56,8 +56,8 @@ import { useRouter } from 'vue-router'
 import { ElScrollbar, ElConfigProvider } from 'element-plus'
 import zhCn from "element-plus/es/locale/lang/zh-cn"
 
-const repoLink = 'https://blog.lianglianglee.com'
-const repoName = '墓灵守护'
+const repoLink = 'https://bravexist.cn/'
+const repoName = '一世贪欢的私域'
 const appName = '图床管理工具'
 
 document.title = appName

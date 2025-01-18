@@ -1,4 +1,5 @@
-# roim-picx
+# roim-picx(自己成功部署)
+[部署成功展示](https://images.bravexist.cn/)
 
 ### 一款基于Cloudflare的Worker、R2、Pages实现的图床应用，具有以下特点：
 
@@ -40,3 +41,6 @@
 ---
 
 项目fork自[roimdev/roim-picx](https://github.com/roimdev/roim-picx)
+[更原始的仓库](https://github.com/roimdev/roim-picx)
+
+[简单记录部署](https://bravexist.cn/2024/07/cloudflare-pages-r2-serverless-image-hosting.html)
