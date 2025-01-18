@@ -6,7 +6,7 @@
 					class="w-full h-16 bg-rose-100/50 shadow-sm sticky left-0 top-0 backdrop-blur-sm z-10"
 				>
 					<div class="mx-auto max-w-6xl px-4 h-full flex items-center">
-						<img src="/rest/2025/01/YelzFNK.ico" class="w-8 h-8 block mr-2" />
+						<img src="/favicon.png" class="w-8 h-8 block mr-2" />
 						<div class="text-lg">
 							{{ appName }}
 						</div>
